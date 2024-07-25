@@ -1,9 +1,15 @@
 # Anti_Sleep_Alaram
+
+
 HARDWARE PROJECT
+
+
 Description:
+
 Designed and implemented a comprehensive safety system for vehicles aimed at detecting driver drowsiness and enhancing vehicle security. The system utilized infrared technology interfaced with relay modules to trigger specific actions based on driver conditions.
 
 Key Components and Functions:
+
 
 Infrared Detection Module: Implemented to monitor driver eye activity; detects when the driver's eyes are closed.
 Relay Module Integration: Connected to the infrared module to initiate actions upon detecting closed eyes, ensuring timely response.
